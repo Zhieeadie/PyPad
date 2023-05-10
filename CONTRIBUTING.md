@@ -38,7 +38,7 @@ PyPad adheres to a [Code of Conduct](https://github.com/Zhieeadie/PyPad/blob/mai
 
 - **Attribution**: Acknowledge the original authors and contributors in your code or documentation changes.
 
-- **Licensing**: PyPad is released under the [BSD 2-Clause Clause License](https://github.com/Zhieeadie/PyPad/blob/main/LICENSE). Ensure that your contributions comply with the license terms.
+- **Licensing**: PyPad is released under the [BSD 2-Clause License](https://github.com/Zhieeadie/PyPad/blob/main/LICENSE). Ensure that your contributions comply with the license terms.
 
 We appreciate your dedication to improving PyPad! Together, let's create an exceptional Python notepad for developers worldwide.
 
